@@ -27,19 +27,20 @@
   <option value="The Bunny">The Bunny</option>
   <option value="Halloween">Halloween</option>
 </select>
-<p>What colro should your album be?</p>
+<br><p>What color should your album be?</p>
 <select name="color">
   <option value="red" selected>red</option>
   <option value="light pink">light pink</option>
   <option value="orange">orange</option>
-</select>
-<p>When will your album drop?</p>
+</select></br>
+<br><p>When will your album drop?</p>
     <select name="date">
   <option value="12/25" selected>12/25</option>
   <option value="4/21">4/21</option>
   <option value="10/31">10/31</option>
-</select>
- 
+</select></br>
+ <br><input type="submit" name="submit" value="Generating your album cover!"></br>
+
 </body>
 
 </html>
